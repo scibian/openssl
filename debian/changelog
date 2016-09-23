@@ -1,3 +1,11 @@
+openssl (1.0.1t-1+deb8u4scibian1) jessie; urgency=medium
+
+  [ Margarita Manterola ]
+  * Add a udeb for libssl, based on similar changes done in Ubuntu
+    starting in version 0.9.8o-4ubuntu1
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Fri, 23 Sep 2016 13:38:28 +0200
+
 openssl (1.0.1t-1+deb8u4) jessie-security; urgency=medium
 
   * Fix CVE-2016-2177
